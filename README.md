@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riccardo Antonini</h1>
-<h3 align="center">Wannabe skilled FullStack Developer🧑‍💻 // MTG decent player 🤝</h3>
+<h3 align="center">Wannabe skilled Full Stack Developer🧑‍💻 // MTG decent player 🤝</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=riccardoantonini95&label=Profile%20views&color=b41e0e&style=plastic" alt="riccardoantonini95" /> </p>
 
