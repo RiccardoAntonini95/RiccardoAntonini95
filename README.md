@@ -3,11 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=riccardoantonini95&label=Profile%20views&color=b41e0e&style=plastic" alt="riccardoantonini95" /> </p>
 
-<p align="center"> - 💻 My portfolio & CV: <a href="https://riccardoantonini95.github.io/portfolio/">React + SASS responsive web Portfolio</a></p>
+<p align="center"> 💻 <strong>My portfolio & CV</strong> 💻<br><a href="https://riccardoantonini95.github.io/portfolio/">React + SASS responsive web Portfolio</a></p>
 
-<p align="center"> - 📫 How to reach me: ------> <a href="mailto:riccardo.antonini95@gmail.com">riccardo.antonini95@gmail.com</a> <------ </p>
+<p align="center"> 🤝 <strong>Connect with me on LinkedIn</strong> 🤝 <br><a href="https://www.linkedin.com/in/riccardo-antonini-b477212bb/">LinkedIn profile</a>
 
-<p align="center"> - ⚡ Fun fact: I know how to throw bottles while making cocktails 🍸🤹‍♂️ </p>
+<p align="center"> 📫 <strong>How to reach me</strong> 📫 <br><a href="mailto:riccardo.antonini95@gmail.com">riccardo.antonini95@gmail.com</a></p>
+
+<p align="center"> ⚡ <strong>Fun fact</strong> ⚡ <br> I know how to throw bottles while making cocktails 🍸🤹‍♂️ </p>
 
 
 <h3 align="center">Languages and Tools:</h3>
