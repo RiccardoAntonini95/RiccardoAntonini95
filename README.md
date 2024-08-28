@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Riccardo Antonini</h1>
-<h3 align="center">Wannabe skilled Full Stack Developer🧑‍💻 // MTG decent player 🤝</h3>
+<h3 align="center">Full Stack Developer🧑‍💻 // MTG decent player 🤝</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=riccardoantonini95&label=Profile%20views&color=b41e0e&style=plastic" alt="riccardoantonini95" /> </p>
 
-<p align="center"> - 📫 How to reach me: ------> riccardo.antonini95@gmail.com <------ </p>
+<p align="center"> - 💻 My portfolio & CV: <a href="https://riccardoantonini95.github.io/portfolio/">React + SASS responsive web Portfolio</a></p>
+
+<p align="center"> - 📫 How to reach me: ------> <a href="mailto:riccardo.antonini95@gmail.com">riccardo.antonini95@gmail.com</a> <------ </p>
 
 <p align="center"> - ⚡ Fun fact: I know how to throw bottles while making cocktails 🍸🤹‍♂️ </p>
 
