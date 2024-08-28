@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=riccardoantonini95&label=Profile%20views&color=b41e0e&style=plastic" alt="riccardoantonini95" /> </p>
 
-<p align="center"> 💻 <strong>My portfolio & CV</strong> 💻<br><a href="https://riccardoantonini95.github.io/portfolio/">React + SASS responsive web Portfolio</a></p>
+<p align="center"> 💻 <strong>My portfolio & CV</strong> 💻<br><a href="https://riccardoantonini95.github.io/portfolio/">React + SASS Responsive Web Portfolio</a></p>
 
-<p align="center"> 🤝 <strong>Connect with me on LinkedIn</strong> 🤝 <br><a href="https://www.linkedin.com/in/riccardo-antonini-b477212bb/">LinkedIn profile</a>
+<p align="center"> 🤝 <strong>Connect with me on LinkedIn</strong> 🤝 <br><a href="https://www.linkedin.com/in/riccardo-antonini-b477212bb/">LinkedIn Profile</a>
 
 <p align="center"> 📫 <strong>How to reach me</strong> 📫 <br><a href="mailto:riccardo.antonini95@gmail.com">riccardo.antonini95@gmail.com</a></p>
 
